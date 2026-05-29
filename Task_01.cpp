@@ -1,0 +1,19 @@
+#include<iostream>
+
+int main(){
+
+    std::cout << "Rifat" << std::endl;
+    std::cout << "Rifat" << std::endl;
+    std::cout << "Rifat" << std::endl;
+    std::cout << "Rifat" << std::endl;
+    std::cout << "Rifat" << std::endl;
+    std::cout << "Rifat" << std::endl;
+    std::cout << "Rifat" << std::endl;
+    std::cout << "Rifat" << std::endl;
+    std::cout << "Rifat" << std::endl;
+    std::cout << "Rifat" << std::endl;
+    std::cout << "Rifat" << std::endl;
+
+
+    return 0;
+}
