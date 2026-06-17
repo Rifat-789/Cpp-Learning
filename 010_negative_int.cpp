@@ -7,7 +7,7 @@ int main(){
   int z(-10);
 
   signed int a = -100;
-  unsigned int b = -100;
+  unsigned int b = -100; // Error . unsigned only stores positive int.
 
   std::cout << x << y << z << std::endl;
 
