@@ -13,6 +13,7 @@ int main(){
     std::cout << "Size of var3: " << sizeof(var3) << " bytes" << std::endl;
     std::cout << "Size of var4: " << sizeof(var4) << " bytes" << std::endl;
 
+    // auto type is not dynamic
 
     return 0;
 }
