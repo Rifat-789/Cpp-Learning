@@ -45,7 +45,7 @@ int main(){
 
   double result = num9 / num10;
 
-  std::cout << "-----------------------------------" << std::endl;
+  std::cout << "-----------------------------------" << std::endl;  
   std::cout << num9 << "/" << num10 << " yeilds: " << result << std::endl;
   std::cout << result << "+" << num9 << " yeilds: " << result + num9 << std::endl;
 

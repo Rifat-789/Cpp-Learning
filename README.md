@@ -1,2 +1,2 @@
-# C-Learning
+# Cpp-Learning
 Notes of all c++ codes while learning the language
